@@ -4,7 +4,9 @@
 ### Well hello there! 👋
 </div>
 
+<div align="justify">
 I'm Irsyadhani Dwi Shubhi, you can call me Irsyad. I'm currently undergraduate Informatics Engineering student at Institut Teknologi Sepuluh Nopember. There's still a lot of things to do. Thank you for coming.
+</div>
 
 - 📫 Reach me at:
   - [📸 Instagram](https://instagram.com/irsyadhani_17)
