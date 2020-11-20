@@ -4,6 +4,6 @@ I'm Irsyadhani Dwi Shubhi, you can call me Irsyad. I'm currently undergraduate I
 
 - 📫 Reach me at:
   - [📸 Instagram](https://instagram.com/irsyadhani_17)
-  - [📧 E-Mail](https://irsyadhanishubhi@gmail.com)
+  - 📧 irsyadhanishubhi@gmail.com
   
 ![Irsyad's github stats](https://github-readme-stats.vercel.app/api?username=irsyadhani22&show_icons=true&hide_border=true)
