@@ -1,6 +1,6 @@
-<center>
-<img align="center" src="https://i.ibb.co/yPQYwCt/vektor-icon.png" width="40x" height="40px">
-</center>
+<div align="center">
+<img src="https://i.ibb.co/yPQYwCt/vektor-icon.png" width="40x" height="40px">
+</div>
 
 # Well hello there! 👋
 
