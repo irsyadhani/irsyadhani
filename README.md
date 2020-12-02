@@ -18,6 +18,6 @@ I'm Irsyadhani Dwi Shubhi, you can call me Irsyad. I'm currently studying Inform
 ---------------------------------------------------
 <div align="center">
   
-![Irsyad's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadhani22&hide=jupyter%20notebook,assembly,html&bg_color=1d1f21&title_color=5eaeeb&text_color=c9cacc&icon_color=5eaeeb)
-![Irsyad's Github Stats](https://github-readme-stats.vercel.app/api?username=irsyadhani22&show_icons=true&hide_border=true&bg_color=1d1f21&title_color=5eaeeb&text_color=c9cacc&icon_color=5eaeeb)
+![Irsyad's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadhani&hide=jupyter%20notebook,assembly,html&bg_color=1d1f21&title_color=5eaeeb&text_color=c9cacc&icon_color=5eaeeb)
+![Irsyad's Github Stats](https://github-readme-stats.vercel.app/api?username=irsyadhani&show_icons=true&hide_border=true&bg_color=1d1f21&title_color=5eaeeb&text_color=c9cacc&icon_color=5eaeeb)
 </div>
