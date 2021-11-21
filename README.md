@@ -12,7 +12,7 @@ I'm Irsyadhani Dwi Shubhi, you can call me Irsyad. I'm currently studying Inform
 <br>
 
 - 📫 Reach me at:
-  - [📸 Instagram](https://instagram.com/irsyadhands)
+  - [📸 Instagram](https://instagram.com/irsyadhanids)
   - 📧 irsyadhanishubhi@gmail.com
 
 ---------------------------------------------------
